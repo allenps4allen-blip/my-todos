@@ -1,0 +1,1 @@
+{ "name": "my-todos", "version": "0.1.0", "description": "A to-do list panel with /todo commands", "types": "./types/index.d.ts" }
